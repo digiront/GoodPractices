@@ -1,7 +1,14 @@
-cmake_minimum_required (VERSION 2.6)
+cmake_minimum_required(VERSION 3.0)
+set(CMAKE_CXX_STANDARD 14)
 
-file(GLOB SOURCES *.cpp)
-file(GLOB HEADERS *.h)
+project(TestClassInteractions)
 
-project (TestClassInteractions)
-add_executable(TestClassInteractions ${HEADERS} ${SOURCES})
+enable_testing()
+
+include_directories("${PROJECT_SOURCE_DIR}/libfoo")
+add_subdirectory(libfoo)
+add_subdirectory(test)
+
+add_executable(TestClassInteractions main.cpp)
+target_link_libraries(TestClassInteractions libfoo)
+

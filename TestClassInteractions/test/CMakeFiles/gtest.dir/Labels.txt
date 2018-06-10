@@ -1,0 +1,13 @@
+# Target labels
+ gtest
+# Source files and their labels
+/home/digiront/dev/code/GoodPractices/TestClassInteractions/test/CMakeFiles/gtest
+/home/digiront/dev/code/GoodPractices/TestClassInteractions/test/CMakeFiles/gtest.rule
+/home/digiront/dev/code/GoodPractices/TestClassInteractions/test/CMakeFiles/gtest-complete.rule
+/home/digiront/dev/code/GoodPractices/TestClassInteractions/test/gtest/src/gtest-stamp/gtest-install.rule
+/home/digiront/dev/code/GoodPractices/TestClassInteractions/test/gtest/src/gtest-stamp/gtest-mkdir.rule
+/home/digiront/dev/code/GoodPractices/TestClassInteractions/test/gtest/src/gtest-stamp/gtest-download.rule
+/home/digiront/dev/code/GoodPractices/TestClassInteractions/test/gtest/src/gtest-stamp/gtest-update.rule
+/home/digiront/dev/code/GoodPractices/TestClassInteractions/test/gtest/src/gtest-stamp/gtest-patch.rule
+/home/digiront/dev/code/GoodPractices/TestClassInteractions/test/gtest/src/gtest-stamp/gtest-configure.rule
+/home/digiront/dev/code/GoodPractices/TestClassInteractions/test/gtest/src/gtest-stamp/gtest-build.rule

@@ -1,0 +1,6 @@
+/home/digiront/dev/code/GoodPractices/TestClassInteractions/test/CMakeFiles/rebuild_cache.dir
+/home/digiront/dev/code/GoodPractices/TestClassInteractions/test/CMakeFiles/gtest.dir
+/home/digiront/dev/code/GoodPractices/TestClassInteractions/test/CMakeFiles/edit_cache.dir
+/home/digiront/dev/code/GoodPractices/TestClassInteractions/test/unit_tests/CMakeFiles/rebuild_cache.dir
+/home/digiront/dev/code/GoodPractices/TestClassInteractions/test/unit_tests/CMakeFiles/unit_tests.dir
+/home/digiront/dev/code/GoodPractices/TestClassInteractions/test/unit_tests/CMakeFiles/edit_cache.dir
