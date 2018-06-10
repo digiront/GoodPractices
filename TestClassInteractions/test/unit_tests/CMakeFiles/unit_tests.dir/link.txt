@@ -1,1 +1,0 @@
-/usr/bin/c++    -rdynamic CMakeFiles/unit_tests.dir/TestHeaveDependency.cpp.o CMakeFiles/unit_tests.dir/main.t.cpp.o  -o unit_tests -llibfoo ../gtest/src/gtest-build/googlemock/gtest/libgtest.a ../gtest/src/gtest-build/googlemock/libgmock.a -lpthread 
