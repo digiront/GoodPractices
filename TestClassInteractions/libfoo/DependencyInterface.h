@@ -3,6 +3,8 @@
 
 namespace TestClassInteractions {
 
+// This is a pure interface. The plan is to a have an actual heavy implementation (e.g. db client)
+// but also make the implementation fully mockable and make testing easy.
 class DependencyInterface {
   public:
     virtual ~DependencyInterface();

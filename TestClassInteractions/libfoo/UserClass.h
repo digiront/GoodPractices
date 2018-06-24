@@ -10,6 +10,8 @@ class UserClass {
   private:
     DependencyInterface& d_dep;
 
+    void doSomethingPrivate();
+
   public:
     UserClass(DependencyInterface& dep);
 

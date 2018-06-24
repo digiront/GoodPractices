@@ -12,5 +12,5 @@ class TestHeavyDependency : public ::testing::Test {
     // You can do clean-up work that doesn't throw exceptions here.
     virtual ~TestHeavyDependency();
 
-    MockHeavyDepedency d_mockHeavyDepedency;
+    MockHeavyDepedency m_mockHeavyDependency;
 };
